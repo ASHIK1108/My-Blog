@@ -1,0 +1,46 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #37aad8;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+footer {
+  background-color: #1e0cc1;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.blog-list {
+  padding: 2rem;
+}
+
+.blog-preview {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+}
+
+.blog-post {
+  padding: 2rem;
+}
+
+.blog-post img {
+  max-width: 100%;
+}
+
+.social-sharing a {
+  margin-right: 1rem;
+}
